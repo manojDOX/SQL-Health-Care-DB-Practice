@@ -27,6 +27,8 @@ This repository contains advanced SQL join practice questions based on a simulat
 | 15 | Show appointments where the same patient had repeated diagnosis on different dates. |
 
 ---
+## 🗒️ Schema 
+<img width="315" height="599" alt="healthcare_schema" src="https://github.com/user-attachments/assets/eeb1ccb5-3d1a-4b25-af9e-c687f18c3717" />
 
 ## 💡 How to Use
 
