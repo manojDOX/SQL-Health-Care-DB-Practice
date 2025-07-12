@@ -31,7 +31,7 @@ This repository contains advanced SQL join practice questions based on a simulat
 ## 💡 How to Use
 
 1. Clone or fork the repository.
-2. Use the provided SQL table schema to create your database in PostgreSQL.
+2. Use the provided SQL table schema to create your database in PostgreSQL(File: healthcare_database_table.sql).
 3. Practice by writing and running SQL queries based on the above questions.
 
 ---
@@ -39,7 +39,7 @@ This repository contains advanced SQL join practice questions based on a simulat
 ## 🛠️ Tech Stack
 
 - PostgreSQL
-- SQL Joins, Subqueries, Aggregation
+- SQL Date filtering, Joins (INNER, LEFT), Filtering joined data, Identifying unmatched records, Aggregation with COUNT and GROUP BY, Filtering using conditions across tables, Self-join logic, Filtering with IN clause, Finding latest record per group, Anti-join (NOT EXISTS / LEFT JOIN with NULL), Aggregation by derived fields, Outer joins, Text filtering with LIKE, Aggregation per group, Detecting duplicates using GROUP BY and HAVING.
 
 ---
 
