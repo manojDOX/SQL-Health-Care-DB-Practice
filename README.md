@@ -29,7 +29,9 @@ This repository contains advanced SQL join practice questions based on a simulat
 ---
 ## 🗒️ Schema 
 <img width="315" height="599" alt="healthcare_schema" src="https://github.com/user-attachments/assets/eeb1ccb5-3d1a-4b25-af9e-c687f18c3717" />
+
 ---
+
 ## 💡 How to Use
 
 1. Clone or fork the repository.
