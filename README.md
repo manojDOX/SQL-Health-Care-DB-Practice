@@ -38,8 +38,25 @@ This repository contains advanced SQL join practice questions based on a simulat
 
 ## 🛠️ Tech Stack
 
-- PostgreSQL
-- SQL Date filtering, Joins (INNER, LEFT), Filtering joined data, Identifying unmatched records, Aggregation with COUNT and GROUP BY, Filtering using conditions across tables, Self-join logic, Filtering with IN clause, Finding latest record per group, Anti-join (NOT EXISTS / LEFT JOIN with NULL), Aggregation by derived fields, Outer joins, Text filtering with LIKE, Aggregation per group, Detecting duplicates using GROUP BY and HAVING.
+- **Database**: PostgreSQL
+
+| Topics Covered |
+|----------------|
+| SQL Date filtering |
+| Joins (INNER, LEFT) |
+| Filtering joined data |
+| Identifying unmatched records |
+| Aggregation with COUNT and GROUP BY |
+| Filtering using conditions across tables |
+| Self-join logic |
+| Filtering with IN clause |
+| Finding latest record per group |
+| Anti-join (NOT EXISTS / LEFT JOIN with NULL) |
+| Aggregation by derived fields |
+| Outer joins |
+| Text filtering with LIKE |
+| Aggregation per group |
+| Detecting duplicates using GROUP BY and HAVING |
 
 ---
 
